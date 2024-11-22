@@ -1,0 +1,16 @@
+.pagination>li>a {
+    color: green;
+}
+
+.pagination>li>a:hover {
+    color: green;
+}
+
+.pagination>.active>a {
+    background-color: green;
+}
+
+.pagination>.active>a:hover {
+    background-color: green;
+    color: white;
+}
